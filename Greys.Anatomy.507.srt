@@ -1,0 +1,3363 @@
+1
+00:00:01,933 --> 00:00:04,290
+Se é uma pessoa normal,
+
+2
+00:00:03,886 --> 00:00:06,272
+uma das únicas coisas
+com que pode contar na vida...
+
+3
+00:00:06,306 --> 00:00:08,126
+é a morte.
+
+4
+00:00:13,610 --> 00:00:15,359
+- Alô.
+- Isso é incrível.
+
+5
+00:00:15,359 --> 00:00:16,840
+É só sobre medicina.
+
+6
+00:00:16,873 --> 00:00:20,541
+Não tem besteiras pessoais,
+papo de namorado e sentimentos.
+
+7
+00:00:20,677 --> 00:00:23,705
+- Ela quase nem fala de você.
+- Sim, obrigada por perceber.
+
+8
+00:00:23,839 --> 00:00:26,766
+E quando ela segurou o retrator
+por seis horas, sem se mexer?
+
+9
+00:00:26,868 --> 00:00:30,703
+Mas se é um cirurgião até
+esse conforto é tirado de você.
+
+10
+00:00:30,737 --> 00:00:32,621
+São como os livros
+do Harry Potter que nunca tive.
+
+11
+00:00:32,690 --> 00:00:35,584
+Leu a parte em que fez
+a Estenose Pilórica
+
+12
+00:00:35,584 --> 00:00:37,567
+num bebê de 3 semanas
+de idade?
+
+13
+00:00:42,785 --> 00:00:46,923
+Cirurgiões enganam a morte.
+Prolongamos e negamos.
+
+14
+00:00:49,919 --> 00:00:51,500
+Espere,
+ele está fibrilando.
+
+15
+00:00:51,535 --> 00:00:53,316
+Carregue em 300J.
+
+16
+00:00:53,654 --> 00:00:55,604
+Afastem-se.
+
+17
+00:00:55,807 --> 00:00:57,995
+Aumente para 360J.
+Afastem-se.
+
+18
+00:00:58,028 --> 00:01:02,537
+Nos impomos e audaciosamente,
+damos dedo para a morte.
+
+19
+00:01:08,459 --> 00:01:10,075
+Está atrasada.
+
+20
+00:01:10,109 --> 00:01:12,024
+- Ela tem aula prática.
+- Bom dia, Cristina.
+
+21
+00:01:12,127 --> 00:01:14,349
+Parece que acabei de te ver.
+Até mais?
+
+22
+00:01:14,382 --> 00:01:17,746
+Não, Tucker. Não falei que não
+vou fazer terapia de casal.
+
+23
+00:01:17,780 --> 00:01:19,495
+Falei que não posso
+pela manhã.
+
+24
+00:01:19,561 --> 00:01:21,616
+Estou 20 minutos atrasada
+para o trabalho.
+
+25
+00:01:21,986 --> 00:01:23,802
+Te vejo à noite.
+
+26
+00:01:23,802 --> 00:01:25,654
+Terapia de casal...
+como está indo?
+
+27
+00:01:25,722 --> 00:01:27,775
+Acabou de nos ouvir discutindo
+sobre a terapia de casal.
+
+28
+00:01:27,808 --> 00:01:29,557
+Como acha que está indo?
+
+29
+00:01:29,860 --> 00:01:33,293
+Não. Vai fazer uma craniotomia
+em minha paciente hoje.
+
+30
+00:01:33,327 --> 00:01:35,615
+Vai estar acordado, ou vai
+bocejar no seu cérebro?
+
+31
+00:01:35,649 --> 00:01:37,163
+Meredith me deixou acordado
+a maior parte da noite.
+
+32
+00:01:37,228 --> 00:01:38,679
+Não quero ouvir
+sobre a sua...
+
+33
+00:01:38,711 --> 00:01:40,527
+Falando no telefone
+com a Cristina.
+
+34
+00:01:40,560 --> 00:01:44,700
+E tiraram o seu sono?
+Falou "Ou a Yang, ou eu"?
+
+35
+00:01:44,734 --> 00:01:46,183
+Acho que não ganharia essa.
+
+36
+00:01:46,216 --> 00:01:48,434
+Aquelas duas vivem em par,
+já deveria saber disso.
+
+37
+00:01:48,434 --> 00:01:50,555
+- Antes tinha o Burke, ajudava.
+- Verdade.
+
+38
+00:01:50,655 --> 00:01:54,861
+Acho a terapia uma boa.
+Addison e eu fizemos.
+
+39
+00:01:55,637 --> 00:01:57,926
+Logo antes do divórcio?
+
+40
+00:01:58,093 --> 00:02:01,659
+Senhoras e senhores,
+eu lhes apresento...
+
+41
+00:02:02,232 --> 00:02:04,319
+o Stan.
+
+42
+00:02:04,453 --> 00:02:07,010
+Um simulador de paciente
+de última geração.
+
+43
+00:02:07,177 --> 00:02:10,140
+Stan os educará quanto
+ao controle de ventilação,
+
+44
+00:02:10,207 --> 00:02:11,721
+avaliação de trauma
+e tratamento.
+
+45
+00:02:11,754 --> 00:02:15,893
+Ele respira, pulsa,
+convulsiona, sangra,
+
+46
+00:02:15,993 --> 00:02:18,216
+tem secreção e fala.
+
+47
+00:02:18,283 --> 00:02:19,696
+Olá, Stan.
+
+48
+00:02:19,729 --> 00:02:22,859
+Olá, doutor.
+Não me sinto bem.
+
+49
+00:02:22,859 --> 00:02:24,609
+Stan dirá do que precisa.
+
+50
+00:02:24,676 --> 00:02:26,695
+E ele é mais compreensivo
+do que muitos pacientes.
+
+51
+00:02:26,729 --> 00:02:29,454
+Se o matar, continuará
+voltando para mais.
+
+52
+00:02:29,523 --> 00:02:31,440
+Então, façam bom uso
+dele, pessoal.
+
+53
+00:02:31,540 --> 00:02:33,156
+Vamos operar robôs agora?
+
+54
+00:02:33,156 --> 00:02:35,209
+- Podemos voltar aos porcos?
+- E pessoas?
+
+55
+00:02:35,342 --> 00:02:37,532
+Quando o chefe decidir
+qual de vocês fará
+
+56
+00:02:37,532 --> 00:02:39,583
+a primeira cirurgia individual,
+devem estar preparados.
+
+57
+00:02:39,618 --> 00:02:41,265
+Disse "cirurgia individual"?
+
+58
+00:02:43,824 --> 00:02:47,693
+Não sei o que será,
+nem quando.
+
+59
+00:02:47,761 --> 00:02:50,687
+Sei que o vencedor deverá
+estar preparado
+
+60
+00:02:50,755 --> 00:02:52,472
+para qualquer
+procedimento cirúrgico.
+
+61
+00:02:52,505 --> 00:02:55,198
+E irá escolher um interno
+para participar.
+
+62
+00:02:55,264 --> 00:02:58,159
+Treinem suas habilidades,
+impressionem seus atendentes,
+
+63
+00:02:58,192 --> 00:03:00,612
+e não me façam parecer
+idiota.
+
+64
+00:03:00,682 --> 00:03:03,979
+Grey e Stevens, estão
+com a Hahn. Yang, no PS.
+
+65
+00:03:04,012 --> 00:03:05,863
+Karev e O'Malley têm
+aula prática hoje,
+
+66
+00:03:05,863 --> 00:03:07,377
+então podem se alternar
+para conhecer o...
+
+67
+00:03:07,446 --> 00:03:08,658
+- Primeiro!
+- Meu!
+
+68
+00:03:08,759 --> 00:03:11,182
+Estou com dor no peito.
+
+69
+00:03:11,483 --> 00:03:15,118
+Só pra deixar claro, não vamos
+abrir nenhum peito hoje?
+
+70
+00:03:15,151 --> 00:03:16,330
+Não, Stevens.
+
+71
+00:03:16,463 --> 00:03:19,154
+É que com a cirurgia
+individual se aproximando,
+
+72
+00:03:19,154 --> 00:03:21,242
+esperávamos estar
+em uma cirurgia legal...
+
+73
+00:03:21,310 --> 00:03:22,992
+Vou te parar bem aí.
+
+74
+00:03:23,060 --> 00:03:25,850
+Não me envolvo com pacientes,
+mas gosto desse cara.
+
+75
+00:03:25,884 --> 00:03:28,174
+E passei quase dois anos
+dando e tirando
+
+76
+00:03:28,174 --> 00:03:29,824
+falsas esperanças
+para ele e sua família.
+
+77
+00:03:29,856 --> 00:03:33,963
+Esse procedimento pode dar tempo,
+até ele conseguir um transplante.
+
+78
+00:03:33,963 --> 00:03:35,678
+Precisamos nos certificar
+de que funcione, certo?
+
+79
+00:03:35,712 --> 00:03:37,125
+- Certamente.
+- Claro.
+
+80
+00:03:37,158 --> 00:03:39,077
+Estão familiarizadas
+com o caso?
+
+81
+00:03:39,077 --> 00:03:41,096
+Sim, Michael Norris,
+44 anos,
+
+82
+00:03:41,096 --> 00:03:43,957
+homem, com Miocardiopatia
+Hipertrófica Congênita.
+
+83
+00:03:44,024 --> 00:03:45,773
+O tratamento médico do Seattle
+Pres não deu resultados.
+
+84
+00:03:45,807 --> 00:03:47,353
+Espera por um
+transplante de coração
+
+85
+00:03:47,390 --> 00:03:50,281
+desde que perdeu por pouco
+em 14 de maio de...
+
+86
+00:03:50,350 --> 00:03:51,663
+Espera.
+
+87
+00:03:52,064 --> 00:03:54,018
+- O quê?
+- 14 de maio de quando?
+
+88
+00:03:54,487 --> 00:03:56,441
+O quê?
+
+89
+00:03:56,641 --> 00:03:59,334
+É o coração do Denny.
+
+90
+00:04:00,680 --> 00:04:03,136
+É o coração que roubei
+para o Denny.
+
+91
+00:04:12,861 --> 00:04:15,484
+Preciso que faça sexo
+com a Cristina Yang.
+
+92
+00:04:15,586 --> 00:04:17,000
+Bom dia.
+
+93
+00:04:17,201 --> 00:04:19,255
+Distraia ela.
+Se envolva.
+
+94
+00:04:19,290 --> 00:04:20,465
+Lhe dê algo para fazer
+depois da meia-noite,
+
+95
+00:04:20,499 --> 00:04:22,417
+além de ligar para minha
+namorada e me acordar.
+
+96
+00:04:22,518 --> 00:04:24,034
+A Yang? Não.
+
+97
+00:04:24,302 --> 00:04:28,103
+Muito séria, sem humor,
+sem graça. Não é o meu tipo.
+
+98
+00:04:28,171 --> 00:04:29,619
+Deveria ser.
+
+99
+00:04:29,719 --> 00:04:31,908
+Ela é intensa, inteligente,
+complicada.
+
+100
+00:04:32,043 --> 00:04:36,549
+É como um uísque single malte,
+e está acostumado com cerveja.
+
+101
+00:04:36,615 --> 00:04:38,535
+Callie Torres
+não é nenhuma cerveja.
+
+102
+00:04:38,636 --> 00:04:40,523
+Espere um pouco,
+entendi.
+
+103
+00:04:40,858 --> 00:04:44,154
+Acha que não tem chance.
+Deve estar certo.
+
+104
+00:04:44,459 --> 00:04:45,770
+Tenho chance, sim.
+
+105
+00:04:45,770 --> 00:04:49,268
+- Tente, com um favor.
+- Não sou o seu garanhão.
+
+106
+00:04:49,472 --> 00:04:53,879
+- Não pode apenas dizer...
+- Você dormiu com a minha esposa.
+
+107
+00:04:54,316 --> 00:04:56,403
+Tá, eu tento.
+
+108
+00:05:08,820 --> 00:05:11,344
+Estão injetando drogas?
+Meu Deus.
+
+109
+00:05:11,379 --> 00:05:13,464
+Não. Estamos praticando
+intra-venosa.
+
+110
+00:05:13,498 --> 00:05:14,777
+Como mais iríamos aprender?
+
+111
+00:05:14,811 --> 00:05:15,923
+A Yang não nos deixa
+fazer nada.
+
+112
+00:05:15,988 --> 00:05:17,368
+Então,
+praticam um no outro?
+
+113
+00:05:17,402 --> 00:05:19,253
+Fizemos isso em Baylor,
+é tranqüilo.
+
+114
+00:05:19,320 --> 00:05:20,936
+Não, é uma loucura.
+
+115
+00:05:20,970 --> 00:05:22,919
+Loucura do tipo
+porão assustador.
+
+116
+00:05:22,988 --> 00:05:24,601
+Não conte a ninguém.
+
+117
+00:05:25,175 --> 00:05:27,833
+Não se preocupe,
+não vai falar.
+
+118
+00:05:33,318 --> 00:05:34,899
+Dr. Hunt, tem um minuto?
+
+119
+00:05:34,932 --> 00:05:37,253
+Vai ficar um pouco agitado
+aqui, mas manda.
+
+120
+00:05:37,323 --> 00:05:38,937
+Estamos nos preparando
+para premiar
+
+121
+00:05:38,937 --> 00:05:41,360
+a primeira cirurgia individual
+para um residente do segundo ano.
+
+122
+00:05:41,394 --> 00:05:43,178
+Quero seu parecer.
+
+123
+00:05:43,210 --> 00:05:45,063
+Homem não identificado,
+cerca de 35 anos,
+
+124
+00:05:45,063 --> 00:05:47,384
+sem sinais vitais no local,
+reverti, com Taquicardia Sinusal.
+
+125
+00:05:47,384 --> 00:05:49,639
+Possível fratura nos dois
+braços, pélvis instável.
+
+126
+00:05:49,672 --> 00:05:52,062
+Um, dois, três.
+
+127
+00:05:53,104 --> 00:05:55,258
+Tíbia e fíbula direita expostas,
+abdômen rígido.
+
+128
+00:05:55,258 --> 00:05:56,402
+O que ele não tem?
+
+129
+00:05:56,402 --> 00:05:57,679
+O encontramos debaixo
+de uma ponte.
+
+130
+00:05:57,715 --> 00:05:59,295
+Os policiais acham
+que foi jogado.
+
+131
+00:05:59,295 --> 00:06:00,742
+Depois de torturá-lo
+até a morte?
+
+132
+00:06:00,775 --> 00:06:03,166
+A cirurgia individual
+é uma disputa?
+
+133
+00:06:03,166 --> 00:06:05,453
+Você tem olhos novos.
+Não os conhece pessoalmente.
+
+134
+00:06:05,489 --> 00:06:08,179
+Não possuem
+história ou relacionamento.
+
+135
+00:06:08,246 --> 00:06:10,435
+Esse ponto de vista
+é raro por aqui.
+
+136
+00:06:10,537 --> 00:06:12,386
+- Vou pensar.
+- Dr. Webber,
+
+137
+00:06:12,386 --> 00:06:16,222
+em relação a cirurgia individual,
+suponho que será geral?
+
+138
+00:06:16,255 --> 00:06:19,856
+- Só quero estar preparada.
+- Saberá quando todos souberem.
+
+139
+00:06:19,957 --> 00:06:22,581
+Outra coisa, se meus
+informantes estão certo,
+
+140
+00:06:22,581 --> 00:06:24,331
+vem trabalhando
+há três dias direto.
+
+141
+00:06:24,331 --> 00:06:25,543
+Quando dorme?
+
+142
+00:06:25,543 --> 00:06:28,974
+Vigia todos seus atendentes
+ou só os novos?
+
+143
+00:06:29,008 --> 00:06:30,793
+Yang, ele precisa
+de um acesso agora.
+
+144
+00:06:30,827 --> 00:06:32,576
+Estou fazendo, senhor.
+
+145
+00:06:32,643 --> 00:06:34,662
+Isso vai te dar tempo
+até conseguir.
+
+146
+00:06:36,580 --> 00:06:38,800
+Se não tivesse tão preocupada
+em vencer a disputa,
+
+147
+00:06:38,833 --> 00:06:41,088
+teria pensado nisso.
+
+148
+00:06:45,262 --> 00:06:50,276
+Vão me dar um ataque cardíaco,
+literalmente?
+
+149
+00:06:51,892 --> 00:06:54,953
+É uma técnica chamada
+Ablação com Álcool,
+
+150
+00:06:54,986 --> 00:06:57,409
+através de um cateter
+em sua artéria femoral.
+
+151
+00:06:57,442 --> 00:07:01,245
+Dra. Hahn irá injetar etanol
+diretamente no seu coração.
+
+152
+00:07:01,379 --> 00:07:05,452
+O álcool irá destruir toda
+célula do tecido em que tocar.
+
+153
+00:07:07,335 --> 00:07:09,757
+Dra. Stevens?
+
+154
+00:07:11,340 --> 00:07:15,513
+Vamos gastar o músculo
+no seu ventrículo que...
+
+155
+00:07:15,713 --> 00:07:17,903
+está obstruindo sua
+capacidade de ter oxigênio.
+
+156
+00:07:18,004 --> 00:07:22,177
+Se obtivermos sucesso, deverá
+sentir alívio imediato, então...
+
+157
+00:07:22,815 --> 00:07:25,945
+Simples assim,
+conseguirei respirar?
+
+158
+00:07:26,011 --> 00:07:27,088
+Simples assim.
+
+159
+00:07:27,088 --> 00:07:29,409
+E não poderá dormir
+durante o procedimento?
+
+160
+00:07:29,409 --> 00:07:30,622
+Receio que não.
+
+161
+00:07:30,656 --> 00:07:35,165
+A Dra. Stevens irá te pedir
+para tossir, inspirar e expirar.
+
+162
+00:07:35,799 --> 00:07:38,390
+Checando se já estou
+ou não morto?
+
+163
+00:07:38,424 --> 00:07:41,790
+- Mike, pare.
+- Quer dizer...
+
+164
+00:07:41,856 --> 00:07:43,842
+É um ataque cardíaco,
+não é?
+
+165
+00:07:43,842 --> 00:07:48,048
+É um procedimento perigoso,
+mas podemos controlar.
+
+166
+00:07:48,114 --> 00:07:52,153
+Se não fizer,
+o próximo ataque,
+
+167
+00:07:52,187 --> 00:07:57,401
+- e você terá um...
+- Vai me matar.
+
+168
+00:07:57,435 --> 00:08:00,700
+Promete me manter acordado?
+
+169
+00:08:01,205 --> 00:08:02,854
+Não quero perder nada.
+
+170
+00:08:09,046 --> 00:08:13,116
+Quero o eco e o angio dele antes
+que vá a sala de cateterismo.
+
+171
+00:08:14,127 --> 00:08:16,146
+- Está surtando?
+- O quê?
+
+172
+00:08:16,347 --> 00:08:18,300
+Por quê?
+Acha que deveria estar?
+
+173
+00:08:18,399 --> 00:08:22,439
+O paciente no quarto do Denny?
+É muito Denny para um dia só, Iz.
+
+174
+00:08:22,439 --> 00:08:25,904
+É muito mesmo.
+Muito.
+
+175
+00:08:26,409 --> 00:08:28,933
+É muito Denny para você
+também?
+
+176
+00:08:28,999 --> 00:08:34,317
+- Quanto do Denny está sentindo?
+- Iz, pode fazer isso.
+
+177
+00:08:37,143 --> 00:08:39,800
+Minha dor está piorando.
+
+178
+00:08:40,004 --> 00:08:42,393
+- Minha dor está piorando.
+- Odeio isso.
+
+179
+00:08:42,393 --> 00:08:45,320
+Não vou ganhar a cirurgia
+treinando num homem de plástico.
+
+180
+00:08:45,353 --> 00:08:47,944
+Não vai ganhar porque
+você é ruim.
+
+181
+00:08:48,011 --> 00:08:50,669
+Sua educação
+que é ruim.
+
+182
+00:08:50,805 --> 00:08:52,724
+O quê?
+O que disse?
+
+183
+00:08:52,858 --> 00:08:55,448
+- A tecnologia não é incrível?
+- Dane-se.
+
+184
+00:08:55,448 --> 00:08:57,670
+Vou praticar medicina.
+Fique brincando de boneca.
+
+185
+00:08:57,704 --> 00:09:02,684
+Qual o problema, assustado
+com um pouco de ensinamento?
+
+186
+00:09:06,350 --> 00:09:10,355
+Você é incrível,
+é incrível...
+
+187
+00:09:10,625 --> 00:09:12,473
+Não! Stan!
+
+188
+00:09:13,315 --> 00:09:16,177
+O que esse cara fez
+para apanhar assim?
+
+189
+00:09:16,480 --> 00:09:18,262
+Talvez ele nos conte
+quando acordar.
+
+190
+00:09:18,296 --> 00:09:20,720
+Vamos esperar
+que chegue tão longe.
+
+191
+00:09:21,157 --> 00:09:23,918
+Três, leve isso ao laboratório
+e vá ao necrotério,
+
+192
+00:09:23,918 --> 00:09:25,498
+pegar formulários
+de corpo não reclamado.
+
+193
+00:09:25,531 --> 00:09:26,811
+Vai precisar de tubo
+torácico, não é?
+
+194
+00:09:26,878 --> 00:09:29,164
+Esperava que, com
+a cirurgia individual chegando...
+
+195
+00:09:29,164 --> 00:09:32,766
+Com a cirurgia se aproximando,
+seu trabalho é me impressionar.
+
+196
+00:09:32,936 --> 00:09:36,636
+Dr. Yang, com ela se aproximando,
+seu trabalho é me impressionar.
+
+197
+00:09:36,670 --> 00:09:39,127
+Está planejando a morte dele,
+enquanto luto por sua vida.
+
+198
+00:09:39,193 --> 00:09:40,709
+Tentava estar preparada.
+Sinto muito.
+
+199
+00:09:40,709 --> 00:09:43,097
+Não posso usar isso.
+Poderia usar um médico.
+
+200
+00:09:43,233 --> 00:09:45,315
+Seja uma.
+
+201
+00:09:45,990 --> 00:09:49,759
+O tipo de metástase que tem
+leva ao sangramento espontâneo.
+
+202
+00:09:50,130 --> 00:09:53,796
+Existem riscos
+consideráveis na cirurgia.
+
+203
+00:09:54,170 --> 00:09:56,860
+- Está dizendo que essa...
+- Pode ser mais arriscada?
+
+204
+00:09:56,960 --> 00:09:59,147
+Muito mais arriscada
+do que as anteriores.
+
+205
+00:09:59,214 --> 00:10:01,468
+Quero deixar claro.
+Pode viver com esse tumor
+
+206
+00:10:01,503 --> 00:10:04,835
+- por meses, ou mais.
+- Não dessa maneira.
+
+207
+00:10:05,911 --> 00:10:08,837
+Não do jeito
+que estou me sentindo.
+
+208
+00:10:09,345 --> 00:10:12,641
+Entendo que os riscos
+são parte do pacote.
+
+209
+00:10:12,743 --> 00:10:17,150
+Por isso estão me deixando vesga,
+assinando esses formulários.
+
+210
+00:10:17,487 --> 00:10:19,337
+Está assinando um pedido
+de "Não ressuscitar"?
+
+211
+00:10:19,337 --> 00:10:20,648
+Se for minha
+hora de ir...
+
+212
+00:10:20,718 --> 00:10:22,972
+Ela não quer ficar
+ligada a uma máquina.
+
+213
+00:10:23,039 --> 00:10:26,001
+- Ela odiaria isso.
+- Odiaria ficar deitada assim.
+
+214
+00:10:26,203 --> 00:10:29,399
+- Não quero isso.
+- Certo.
+
+215
+00:10:33,539 --> 00:10:36,767
+- Adeus, querido.
+- Adeus, amor.
+
+216
+00:10:51,070 --> 00:10:52,549
+Desculpe.
+
+217
+00:10:52,549 --> 00:10:54,704
+Nós fazemos
+isso sempre.
+
+218
+00:10:54,737 --> 00:10:57,834
+Ela assina os papéis,
+nos despedimos,
+
+219
+00:10:57,900 --> 00:11:02,378
+e após a cirurgia,
+dizemos "olá".
+
+220
+00:11:02,814 --> 00:11:05,102
+Bem, parece um bom plano.
+
+221
+00:11:05,135 --> 00:11:07,862
+Descanse. Iremos
+trazê-la de volta logo.
+
+222
+00:11:07,962 --> 00:11:09,609
+Certo.
+
+223
+00:11:09,846 --> 00:11:12,068
+Lá está o Santo
+Graal do casamento.
+
+224
+00:11:12,234 --> 00:11:14,927
+Algo para se inspirar.
+
+225
+00:11:15,197 --> 00:11:16,611
+O que acontece
+com eles?
+
+226
+00:11:16,676 --> 00:11:20,111
+Você assina, o atendente assina,
+a cópia rosa vai no prontuário.
+
+227
+00:11:20,310 --> 00:11:22,768
+Quis dizer os corpos,
+os desconhecidos.
+
+228
+00:11:22,801 --> 00:11:23,979
+O que acontece com eles?
+
+229
+00:11:23,979 --> 00:11:26,874
+Se permanecerem desconhecidos
+por um tempo, serão cremados...
+
+230
+00:11:26,874 --> 00:11:28,386
+Os que não forem,
+serão preservados.
+
+231
+00:11:28,386 --> 00:11:29,397
+Preservados?
+
+232
+00:11:29,397 --> 00:11:34,074
+Para pesquisa, aulas de anatomia,
+cirurgia. Esse tipo de coisa.
+
+233
+00:11:34,074 --> 00:11:38,280
+- Para estudantes de medicina?
+- Exato. Estudantes de medicina.
+
+234
+00:11:38,884 --> 00:11:41,442
+Para praticar?
+
+235
+00:11:42,351 --> 00:11:44,540
+Você é bonita.
+
+236
+00:11:52,581 --> 00:11:54,297
+Obrigada a todos
+por estarem aqui.
+
+237
+00:11:54,433 --> 00:11:56,688
+Agradeço a oportunidade
+de aprender,
+
+238
+00:11:56,688 --> 00:11:58,841
+e sinto que tiveram que morrer.
+
+239
+00:11:58,975 --> 00:12:01,665
+Bandeja de instrumentos.
+
+240
+00:12:01,802 --> 00:12:03,418
+Parem a massagem.
+Temos ritmo.
+
+241
+00:12:03,418 --> 00:12:06,243
+Temos que levá-lo para cirurgia.
+Está sangrando na fratura.
+
+242
+00:12:06,343 --> 00:12:09,978
+O chefe me pediu para
+observá-los para a cirurgia solo.
+
+243
+00:12:10,045 --> 00:12:11,561
+Qual escolheria?
+
+244
+00:12:11,661 --> 00:12:14,387
+São tão diferentes.
+Yang é muito boa.
+
+245
+00:12:14,623 --> 00:12:18,258
+Ela é jogo duro.
+Será uma deusa da cardiologia.
+
+246
+00:12:18,424 --> 00:12:20,410
+- É minha colega de quarto.
+- E Stevens?
+
+247
+00:12:20,478 --> 00:12:24,280
+É esperta, boa com os pacientes,
+muito piedosa, supostamente.
+
+248
+00:12:24,379 --> 00:12:26,232
+Ela dormiu com meu ex-marido
+enquanto estávamos casados.
+
+249
+00:12:26,299 --> 00:12:30,068
+Quer saber? Estou mais
+interessado na parte médica.
+
+250
+00:12:30,068 --> 00:12:33,367
+Certo.
+Obviamente. Claro.
+
+251
+00:12:34,577 --> 00:12:36,595
+Novas imagens. Bom.
+
+252
+00:12:37,706 --> 00:12:39,589
+Aqui temos um hematoma
+esplênico subcapsular...
+
+253
+00:12:39,589 --> 00:12:42,418
+Posso ver. Vá atualizar
+o prontuário dele.
+
+254
+00:12:47,969 --> 00:12:51,401
+- Dra. Yang, você me bipou?
+- Sim, paciente, trauma um.
+
+255
+00:12:51,503 --> 00:12:55,373
+Me bipou para uma consulta?
+Esperava que quisesse me ver.
+
+256
+00:12:55,473 --> 00:12:58,535
+Sim. O paciente está com o nariz
+e o osso molar estilhaçados,
+
+257
+00:12:58,535 --> 00:12:59,779
+e a mandíbula
+esquerda fraturada.
+
+258
+00:12:59,882 --> 00:13:02,002
+Trauma um.
+
+259
+00:13:07,283 --> 00:13:10,482
+Mike, os cateteres entraram.
+Está na hora de injetar.
+
+260
+00:13:10,548 --> 00:13:13,847
+Certo. Agüente.
+Stevens, aqui, por favor.
+
+261
+00:13:14,419 --> 00:13:18,927
+Escolhi você para este caso por
+sua conexão com os pacientes.
+
+262
+00:13:19,599 --> 00:13:22,762
+É bem isso que fui
+advertida a não fazer.
+
+263
+00:13:22,900 --> 00:13:24,580
+Mike precisa que fale com ele.
+
+264
+00:13:24,580 --> 00:13:27,846
+Está assustado, seu pulso
+está subindo. Ajude-o.
+
+265
+00:13:29,022 --> 00:13:31,040
+Certo.
+
+266
+00:13:31,747 --> 00:13:32,960
+Oi, Mike.
+
+267
+00:13:33,801 --> 00:13:35,417
+Está indo muito bem.
+
+268
+00:13:38,107 --> 00:13:40,901
+Sentirá um pouco
+de queimação.
+
+269
+00:13:41,842 --> 00:13:44,265
+Bem, então
+podemos...
+
+270
+00:13:44,265 --> 00:13:46,115
+Aí está. Nossa.
+
+271
+00:13:46,115 --> 00:13:47,361
+Tente não se mexer.
+
+272
+00:13:47,496 --> 00:13:50,694
+Tente ficar quieto, Mike.
+Tente respirar.
+
+273
+00:13:51,770 --> 00:13:53,486
+Faça parar.
+
+274
+00:13:53,620 --> 00:13:57,154
+Mike, não podemos parar,
+mas vai terminar logo, agüente.
+
+275
+00:13:57,187 --> 00:13:59,645
+- Stevens, fale com ele.
+- Sinto muito.
+
+276
+00:13:59,711 --> 00:14:02,302
+- Grey, como está a pressão?
+- Sistólica em 85.
+
+277
+00:14:02,403 --> 00:14:06,474
+- Abro sua intra-venosa?
+- Stevens, fale com ele! Ajude-o!
+
+278
+00:14:06,880 --> 00:14:10,244
+Stevens, faça-o tossir,
+faça-o respirar.
+
+279
+00:14:10,378 --> 00:14:12,531
+- Stevens!
+- A pressão está estabilizando.
+
+280
+00:14:12,667 --> 00:14:15,393
+Certo, como está Mike?
+
+281
+00:14:20,373 --> 00:14:23,232
+Não consigo respirar.
+
+282
+00:14:23,671 --> 00:14:25,653
+Quer dizer que não
+tivemos sucesso?
+
+283
+00:14:25,687 --> 00:14:28,516
+Mike, há duas rotas
+arteriais que posso usar.
+
+284
+00:14:28,549 --> 00:14:30,332
+Na próximas vez
+que fizermos isso, acho...
+
+285
+00:14:30,434 --> 00:14:33,159
+Não, não posso.
+Não farei mais isso.
+
+286
+00:14:33,191 --> 00:14:36,895
+Por favor, não posso.
+Não posso fazer isso de novo.
+
+287
+00:14:36,961 --> 00:14:41,033
+Sinto muito. Sinto muito.
+
+288
+00:14:49,624 --> 00:14:51,104
+Diga a Stevens para
+me encontrar
+
+289
+00:14:51,104 --> 00:14:53,326
+para dispensá-la permanentemente
+dos meus serviços.
+
+290
+00:14:53,391 --> 00:14:55,749
+Dra. Hahn, sei que tem uma
+história com este paciente,
+
+291
+00:14:55,815 --> 00:14:58,002
+mas de um jeito estranho,
+Izzie também tem.
+
+292
+00:14:58,035 --> 00:15:00,695
+Uma história,
+com meu paciente?
+
+293
+00:15:00,797 --> 00:15:04,061
+Não, com Denny Duquette.
+
+294
+00:15:04,294 --> 00:15:06,652
+Diga a ela para me encontrar.
+
+295
+00:15:10,487 --> 00:15:13,145
+A posição do tumor se alterou.
+
+296
+00:15:13,212 --> 00:15:16,172
+Preciso de uma
+localização por ultra-som.
+
+297
+00:15:16,342 --> 00:15:18,628
+Cuidei do "problema Yang".
+
+298
+00:15:18,662 --> 00:15:20,380
+Já?
+
+299
+00:15:20,615 --> 00:15:22,802
+Pareceu fácil.
+
+300
+00:15:22,903 --> 00:15:25,999
+Se não der trabalho,
+não vai funcionar.
+
+301
+00:15:26,034 --> 00:15:28,723
+Onde aprendeu isso?
+Terapia de casais?
+
+302
+00:15:28,823 --> 00:15:31,955
+Claro que não. É uma
+total perda de tempo.
+
+303
+00:15:32,123 --> 00:15:36,432
+Este casal, os Bullards, aposto
+que nunca fizeram terapia.
+
+304
+00:15:36,465 --> 00:15:39,796
+Apenas tomam o
+ruim como bom.
+
+305
+00:15:40,132 --> 00:15:42,151
+Droga. O tumor
+está sangrando.
+
+306
+00:15:42,185 --> 00:15:44,441
+O cérebro está começando a
+inchar. Dê 70 mg de manitol.
+
+307
+00:15:44,474 --> 00:15:48,073
+Está ficando bradicárdica,
+1mg de atropina.
+
+308
+00:15:48,276 --> 00:15:52,112
+Vamos garantir que esses dois
+possam de dizer "olá" de novo.
+
+309
+00:15:57,496 --> 00:15:59,817
+- Viu a Izzie?
+- Não.
+
+310
+00:15:59,884 --> 00:16:03,350
+Tem alguma coisa pra eu fazer?
+O robô-paciente é um saco.
+
+311
+00:16:03,350 --> 00:16:05,840
+Bem, a Izzie está tenho
+um dia difícil, se a vir...
+
+312
+00:16:05,840 --> 00:16:07,758
+Não, não. Eu estou
+tendo um dia difícil.
+
+313
+00:16:07,893 --> 00:16:10,046
+- O que houve?
+- Hunt. Ele me odeia.
+
+314
+00:16:10,181 --> 00:16:12,470
+- Me odeia.
+- Ele a beijou.
+
+315
+00:16:12,503 --> 00:16:17,012
+Isso foi, sei lá, antes.
+Agora ele me odeia mesmo.
+
+316
+00:16:17,081 --> 00:16:18,325
+Isto é pior que a Hahn.
+
+317
+00:16:18,426 --> 00:16:22,060
+Não tenho idéia do que
+fiz ou disse, ou sei lá...
+
+318
+00:16:22,698 --> 00:16:24,888
+Preciso sair deste caso.
+
+319
+00:16:26,937 --> 00:16:28,420
+Dra. Yang...
+
+320
+00:16:29,025 --> 00:16:30,574
+Nosso cara está
+programado para cirurgia,
+
+321
+00:16:30,641 --> 00:16:32,155
+quero saber quando
+a verei de novo.
+
+322
+00:16:32,155 --> 00:16:33,635
+Ele não está estável ainda.
+
+323
+00:16:33,804 --> 00:16:36,596
+- Bem, então temos tempo de...
+- Acabei de ser bipada.
+
+324
+00:16:37,305 --> 00:16:39,862
+Isto não acontece comigo.
+
+325
+00:16:40,197 --> 00:16:43,326
+Saúdam a mim, pois sou
+a rainha dos internos.
+
+326
+00:16:43,396 --> 00:16:46,490
+Reuni um exercito de cadáveres
+para nos ensinar coisas.
+
+327
+00:16:46,557 --> 00:16:49,990
+Consegui cadáveres para
+praticarmos. Um monte deles.
+
+328
+00:16:50,025 --> 00:16:51,572
+Conseguiu cadáveres humanos?
+
+329
+00:16:51,605 --> 00:16:54,163
+Estão lá embaixo nos túneis.
+Nos encontramos lá no almoço.
+
+330
+00:17:04,022 --> 00:17:05,502
+Deixe-me perguntar uma coisa.
+
+331
+00:17:05,535 --> 00:17:09,137
+Sabe se Izzie Stevens
+teve algum relacionamento
+
+332
+00:17:09,137 --> 00:17:10,818
+com Denny Duquette?
+
+333
+00:17:13,714 --> 00:17:15,327
+Quer dizer além do noivado,
+
+334
+00:17:15,364 --> 00:17:17,616
+e do lance de cortar o fio do
+LVDA para poder colocá-lo
+
+335
+00:17:17,616 --> 00:17:19,869
+no topo da lista de transplante?
+Você não sabia sobre isso?
+
+336
+00:17:20,173 --> 00:17:22,126
+Izzie ficou em
+avaliação por isso.
+
+337
+00:17:22,192 --> 00:17:25,120
+Ela ficou próxima de
+ser expulsa do programa.
+
+338
+00:17:25,220 --> 00:17:27,644
+- Esqueci, você não estava aqui.
+- Não, não estava.
+
+339
+00:17:27,744 --> 00:17:29,965
+Estava em outro hospital vendo
+o coração do meu paciente...
+
+340
+00:17:29,965 --> 00:17:32,928
+ser roubado do seu peito.
+
+341
+00:17:35,384 --> 00:17:39,422
+Me bipou aqui, pra transar?
+É que não estou no clima.
+
+342
+00:17:39,757 --> 00:17:41,340
+Quer ver uns
+caras mortos?
+
+343
+00:17:41,373 --> 00:17:43,023
+- Por quê?
+- Venha cá.
+
+344
+00:17:43,158 --> 00:17:44,570
+Por quê diria isso?
+Por quê?
+
+345
+00:17:44,603 --> 00:17:47,026
+Cadáveres,
+para praticar.
+
+346
+00:17:47,060 --> 00:17:49,081
+- Para a cirurgia solo.
+- O que é isso?
+
+347
+00:17:49,114 --> 00:17:52,546
+Ouvi que está tendo um dia ruim.
+Achei que isso te animaria.
+
+348
+00:17:56,953 --> 00:17:58,299
+O quê?
+
+349
+00:17:58,401 --> 00:18:03,515
+É como um buquê, de cadáveres.
+Isso é tão... desculpe.
+
+350
+00:18:03,548 --> 00:18:07,452
+Não. Isso é loucura.
+Ele está morto. Está morto.
+
+351
+00:18:07,518 --> 00:18:10,682
+É muita gente morta hoje.
+
+352
+00:18:13,677 --> 00:18:16,100
+São para os internos.
+
+353
+00:18:16,234 --> 00:18:18,961
+Vão brincar com o boneco!
+
+354
+00:18:19,532 --> 00:18:21,082
+Vamos lá?!
+
+355
+00:18:21,182 --> 00:18:23,872
+Não posso evitar.
+Estou morrendo.
+
+356
+00:18:23,906 --> 00:18:25,522
+Mas estou pressionando.
+
+357
+00:18:25,522 --> 00:18:28,046
+Deve haver algo que
+está esquecendo.
+
+358
+00:18:28,178 --> 00:18:29,424
+Pelo amor de Deus!
+
+359
+00:18:29,424 --> 00:18:32,554
+Estou surpreso que tenha
+passado no seu exame de interno.
+
+360
+00:18:32,588 --> 00:18:34,609
+Meu Deus.
+
+361
+00:18:38,041 --> 00:18:41,000
+Desculpe, não pude resistir.
+
+362
+00:18:44,331 --> 00:18:46,352
+Chefe, tenho que
+falar com o senhor.
+
+363
+00:18:46,653 --> 00:18:49,144
+Hahn. Entre.
+Quero que veja isto.
+
+364
+00:18:49,311 --> 00:18:51,600
+Vamos romper uma artéria.
+
+365
+00:18:51,970 --> 00:18:53,754
+Estou sangrando.
+
+366
+00:18:54,596 --> 00:18:55,740
+Estou sangrando.
+
+367
+00:18:55,773 --> 00:18:59,880
+É sobre Izzie Stevens
+e Denny Duquette.
+
+368
+00:19:01,259 --> 00:19:03,614
+Como Stevens ainda
+está trabalhando aqui?
+
+369
+00:19:03,714 --> 00:19:05,531
+Como Seattle Grace
+ainda é acreditado?
+
+370
+00:19:05,531 --> 00:19:07,281
+Isso tudo foi acobertado?
+
+371
+00:19:07,351 --> 00:19:09,133
+É por isso que este
+lugar é o 12º.
+
+372
+00:19:09,166 --> 00:19:10,849
+Que tipo de hospital está
+administrando?
+
+373
+00:19:10,950 --> 00:19:13,507
+Quero o parecer da equipe
+da assembléia ética.
+
+374
+00:19:13,539 --> 00:19:15,997
+Quero a participação de
+Stevens nisso investigada.
+
+375
+00:19:16,030 --> 00:19:17,847
+E da Bailey também, porque
+ela era sua superiora.
+
+376
+00:19:17,847 --> 00:19:19,161
+- Devagar, Erica.
+- Não.
+
+377
+00:19:19,228 --> 00:19:21,885
+Meu paciente perdeu um
+coração por isso, Richard!
+
+378
+00:19:21,986 --> 00:19:24,409
+- Alguém vai perder o emprego.
+- Chega!
+
+379
+00:19:24,409 --> 00:19:26,295
+Não vamos cavar isso.
+
+380
+00:19:26,361 --> 00:19:29,859
+Não passou em branco.
+Me foi relatado. Lidei com isso.
+
+381
+00:19:29,859 --> 00:19:32,350
+Stevens foi punida.
+Ela aprendeu com seu erro.
+
+382
+00:19:32,383 --> 00:19:34,942
+E está a caminho de se
+tornar uma excelente cirurgiã.
+
+383
+00:19:34,942 --> 00:19:36,726
+Esse é o tipo de
+hospital que administro.
+
+384
+00:19:36,792 --> 00:19:38,744
+Agora esse assunto
+já se encerrou.
+
+385
+00:19:38,777 --> 00:19:41,268
+Está no passado,
+e é lá que vai ficar.
+
+386
+00:19:41,334 --> 00:19:43,958
+Não está no passado para mim.
+
+387
+00:19:43,994 --> 00:19:47,323
+Está deitado em uma cama
+da UTI. Prestes a morrer.
+
+388
+00:19:47,391 --> 00:19:51,835
+Então sua única responsabilidade
+é ter certeza que não aconteça.
+
+389
+00:20:03,486 --> 00:20:06,681
+Foi uma cirurgia difícil,
+especialmente na idade dela.
+
+390
+00:20:06,784 --> 00:20:09,375
+Não temos certeza
+como ela irá responder.
+
+391
+00:20:09,713 --> 00:20:11,496
+Claro.
+
+392
+00:20:14,086 --> 00:20:17,518
+A espera é sempre
+a pior parte.
+
+393
+00:20:20,210 --> 00:20:22,299
+Ed, ela pode não
+sobreviver a esta noite.
+
+394
+00:20:22,299 --> 00:20:25,697
+Eu sei.
+
+395
+00:20:48,814 --> 00:20:50,663
+Iz.
+
+396
+00:20:52,414 --> 00:20:54,130
+Se escondendo de Hahn?
+
+397
+00:20:54,332 --> 00:20:56,686
+Sim.
+Dela também.
+
+398
+00:20:56,957 --> 00:21:00,188
+- Mike está bem?
+- Não, a ablação falhou.
+
+399
+00:21:00,221 --> 00:21:03,621
+E ele se recusa a tentar
+novamente, então Hahn...
+
+400
+00:21:05,166 --> 00:21:07,184
+Você deve ir falar com ela.
+
+401
+00:21:07,218 --> 00:21:09,205
+Eu roubei seu coração,
+Meredith.
+
+402
+00:21:09,405 --> 00:21:12,299
+Roubei-o para Denny.
+Roubei-o para mim mesma.
+
+403
+00:21:12,299 --> 00:21:15,398
+Agora como posso segurar sua
+mão enquanto torturamos ele?
+
+404
+00:21:15,431 --> 00:21:17,517
+Nem consigo olhar para ele.
+
+405
+00:21:17,652 --> 00:21:20,646
+Por minha causa ele está aqui.
+
+406
+00:21:22,665 --> 00:21:26,534
+Então, me escondo.
+
+407
+00:21:33,164 --> 00:21:35,654
+Yang, sucção aqui, por favor.
+
+408
+00:21:37,604 --> 00:21:40,836
+Sloan fará um reparo mandibular?
+
+409
+00:21:41,880 --> 00:21:43,493
+Desculpe-me por antes.
+
+410
+00:21:43,528 --> 00:21:45,984
+Todos se metem nos assuntos
+dos outros por aqui, sabe?
+
+411
+00:21:46,052 --> 00:21:48,743
+Melhor agir profissionalmente
+se possível.
+
+412
+00:21:48,878 --> 00:21:49,989
+Sim.
+
+413
+00:21:50,089 --> 00:21:51,605
+Porque uma hora você está
+trabalhando com pessoas,
+
+414
+00:21:51,605 --> 00:21:54,867
+depois com seus amigos,
+com qualquer um,
+
+415
+00:21:55,203 --> 00:21:58,065
+e de repente há pressão
+para definir o que você é.
+
+416
+00:21:58,099 --> 00:22:00,826
+Como preto e branco.
+Ou você é um ou outro.
+
+417
+00:22:00,892 --> 00:22:03,583
+Você sabe que está fazendo
+isto de novo, não é?
+
+418
+00:22:03,918 --> 00:22:06,341
+Dr. Hunt, como está nosso
+misterioso homem?
+
+419
+00:22:06,478 --> 00:22:08,125
+Ainda conosco.
+Ele é durão.
+
+420
+00:22:08,125 --> 00:22:09,741
+Odeio ser o outro.
+
+421
+00:22:09,808 --> 00:22:11,323
+Callie.
+
+422
+00:22:12,232 --> 00:22:15,023
+Dr. Yang, sei que abrir
+tórax é seu lance,
+
+423
+00:22:15,090 --> 00:22:16,942
+mas você se surpreenderia com
+o quão excitante posso ser
+
+424
+00:22:16,942 --> 00:22:19,263
+manipulando pele.
+
+425
+00:22:19,500 --> 00:22:21,450
+Dr. Yang,
+por que você não sai?
+
+426
+00:22:21,484 --> 00:22:23,606
+Temos mãos suficientes por aqui.
+
+427
+00:22:24,211 --> 00:22:25,691
+Certo.
+
+428
+00:22:27,475 --> 00:22:29,123
+Ouvi que ele saiu.
+Posso substituí-la?
+
+429
+00:22:29,123 --> 00:22:31,513
+Desista. Se eu estou fora
+você também está.
+
+430
+00:22:31,647 --> 00:22:33,193
+Você fede.
+
+431
+00:22:33,296 --> 00:22:35,417
+- Eu tomei banho.
+- Cheira a formol.
+
+432
+00:22:35,517 --> 00:22:37,941
+Por que você tem
+cheiro de morte?
+
+433
+00:22:38,377 --> 00:22:40,834
+Por que você tem
+cheiro de morte?
+
+434
+00:22:43,458 --> 00:22:46,185
+Eu vejo gente morta.
+
+435
+00:22:46,789 --> 00:22:48,472
+- Saia.
+- Preciso sair do caso de Hunt,
+
+436
+00:22:48,472 --> 00:22:54,530
+para isso, vou trocar meu super
+paciente por nada menos que,
+
+437
+00:22:54,866 --> 00:22:58,330
+três cadáveres seus.
+Se decida.
+
+438
+00:22:58,567 --> 00:23:00,689
+Fechado, escolha três.
+
+439
+00:23:03,445 --> 00:23:05,769
+Preciso estar com pessoas.
+
+440
+00:23:06,172 --> 00:23:08,663
+De preferência vivas,
+mas tanto faz.
+
+441
+00:23:08,865 --> 00:23:12,700
+Alex, obrigada por ter me
+oferecido esses cadáveres.
+
+442
+00:23:12,733 --> 00:23:14,853
+Foi muito generoso.
+
+443
+00:23:16,839 --> 00:23:19,195
+Dr. Hunt e Dr. Sloan
+estão operando.
+
+444
+00:23:19,195 --> 00:23:21,281
+- Acham que eu poderia tentar...
+- Não.
+
+445
+00:23:21,281 --> 00:23:23,569
+Minha mãe morta me ensinou
+uma maneira legal
+
+446
+00:23:23,602 --> 00:23:25,085
+de segurar esses instrumentos.
+
+447
+00:23:25,218 --> 00:23:28,649
+Se você fizer isto,
+os girará rapidamente.
+
+448
+00:23:28,749 --> 00:23:32,452
+Quando sua mãe morta te ensina
+coisas, você pode vê-la?
+
+449
+00:23:32,487 --> 00:23:34,774
+Não.
+Estou lendo seus diários.
+
+450
+00:23:34,808 --> 00:23:38,004
+Estou brincando...
+Obviamente.
+
+451
+00:23:38,040 --> 00:23:41,707
+Eu a vi uma vez, e aquele cara
+do esquadrão anti-bomba,
+
+452
+00:23:41,976 --> 00:23:44,198
+e Denny.
+
+453
+00:23:44,969 --> 00:23:46,619
+Hoje?
+
+454
+00:23:46,990 --> 00:23:49,850
+Não.
+Quanto estive morta.
+
+455
+00:23:50,825 --> 00:23:53,146
+Às vezes sinto minha mãe comigo.
+
+456
+00:23:53,216 --> 00:23:56,074
+Tenho que largar este caso.
+
+457
+00:23:59,876 --> 00:24:01,997
+- Posso?
+- Não.
+
+458
+00:24:02,200 --> 00:24:06,136
+Por favor não esteja lá.
+
+459
+00:24:19,999 --> 00:24:25,955
+Dr. Hahn, vim para me desculpar
+e solicitar minha saída do caso.
+
+460
+00:24:26,058 --> 00:24:27,304
+Não.
+
+461
+00:24:27,437 --> 00:24:30,566
+Se eu convencer Mike a
+fazer outra ablação,
+
+462
+00:24:30,669 --> 00:24:34,537
+você estará lá para
+olhá-lo nos olhos,
+
+463
+00:24:34,908 --> 00:24:38,341
+ajudá-lo a suportar a dor
+que você causou a ele.
+
+464
+00:24:38,710 --> 00:24:42,445
+E se ele morrer, quero você lá,
+para se sentir responsável.
+
+465
+00:24:42,445 --> 00:24:44,296
+Ele se decidiu.
+
+466
+00:24:44,599 --> 00:24:48,097
+Não fará outro procedimento.
+Eu irei...
+
+467
+00:24:49,073 --> 00:24:51,766
+Assinar os papeis da alta.
+
+468
+00:24:56,377 --> 00:24:59,168
+Dra. Stevens...
+
+469
+00:25:01,424 --> 00:25:03,745
+Ela ficará bem.
+
+470
+00:25:03,981 --> 00:25:08,692
+Isto já durou o suficiente.
+
+471
+00:25:09,903 --> 00:25:12,057
+Ela ficará bem, ela...
+
+472
+00:25:12,393 --> 00:25:14,884
+Ela seguirá em frente.
+
+473
+00:25:16,633 --> 00:25:19,055
+Se você morrer...
+
+474
+00:25:19,662 --> 00:25:21,949
+Ela nunca superará.
+
+475
+00:25:22,220 --> 00:25:24,001
+Não seguirá em frente.
+
+476
+00:25:24,069 --> 00:25:27,132
+Ela pensará que pode,
+que superou, então...
+
+477
+00:25:27,233 --> 00:25:29,015
+você estará com ela,
+
+478
+00:25:29,015 --> 00:25:34,233
+tão perto que ela pensará
+em tocá-lo, e isto
+
+479
+00:25:35,746 --> 00:25:39,077
+acontecerá repetidamente
+para ela.
+
+480
+00:25:39,718 --> 00:25:43,083
+E ela não seguirá em frente.
+
+481
+00:25:48,632 --> 00:25:50,553
+Eles não estão fazendo nada.
+
+482
+00:25:50,654 --> 00:25:52,941
+Mande-os fazer algo.
+Eles estão apenas observando.
+
+483
+00:25:52,941 --> 00:25:55,062
+Mr. Bullard, eles estão
+mantendo-a confortável.
+
+484
+00:25:55,095 --> 00:25:56,272
+Isto é tudo que podem fazer.
+
+485
+00:25:56,305 --> 00:25:58,057
+Vocês concordaram
+
+486
+00:25:58,057 --> 00:26:01,857
+que não haveria interferência
+se a hora dela chegasse.
+
+487
+00:26:01,959 --> 00:26:04,113
+- A hora dela é agora.
+- O que está acontecendo?
+
+488
+00:26:04,348 --> 00:26:06,839
+O coração dela parou e
+Mr. Bullard
+
+489
+00:26:06,839 --> 00:26:09,328
+está desistindo da ordem de
+não ressucitamento.
+
+490
+00:26:09,429 --> 00:26:12,491
+Ed, foi disto que falei com você,
+deste momento.
+
+491
+00:26:12,560 --> 00:26:14,981
+Mesmo que tentemos
+ressuscitá-la,
+
+492
+00:26:15,352 --> 00:26:17,876
+não podemos garantir
+que ela acorde.
+
+493
+00:26:18,382 --> 00:26:21,207
+Não podemos fazer mais nada.
+
+494
+00:26:28,745 --> 00:26:30,764
+Rosie.
+
+495
+00:26:34,534 --> 00:26:36,114
+Rosie?
+
+496
+00:26:36,417 --> 00:26:38,470
+Querida?
+
+497
+00:26:40,153 --> 00:26:42,072
+Rosie?
+
+498
+00:26:45,300 --> 00:26:47,252
+Não.
+
+499
+00:26:54,317 --> 00:26:56,875
+Não.
+Fique comigo, Rosie.
+
+500
+00:26:57,582 --> 00:27:00,105
+Rosie?
+Fique comigo.
+
+501
+00:27:00,343 --> 00:27:03,673
+Não me deixe, Rosie.
+Fique comigo, Rosie.
+
+502
+00:27:03,775 --> 00:27:06,399
+Não me deixe.
+Fique comigo.
+
+503
+00:27:06,399 --> 00:27:08,149
+Fique comigo, Rosie.
+
+504
+00:27:08,217 --> 00:27:10,538
+Fique comigo.
+Acorde, Rosie.
+
+505
+00:27:10,638 --> 00:27:13,095
+Não me deixe.
+Fique comigo.
+
+506
+00:27:13,230 --> 00:27:16,327
+Não me deixe.
+Fique comigo, Rosie.
+
+507
+00:27:16,394 --> 00:27:17,706
+Fique comigo.
+
+508
+00:27:18,142 --> 00:27:21,543
+Fique comigo.
+Não me deixe, Rosie.
+
+509
+00:27:21,543 --> 00:27:24,368
+Fique comigo, Rosie.
+Não me deixe.
+
+510
+00:27:24,368 --> 00:27:27,363
+Fique comigo.
+Não me deixe.
+
+511
+00:27:27,363 --> 00:27:30,156
+Fique comigo, Rosie.
+Por favor.
+
+512
+00:27:31,689 --> 00:27:33,573
+Não...
+
+513
+00:27:33,775 --> 00:27:35,491
+- Mr. Bullard...
+- Faça alguma coisa por ela.
+
+514
+00:27:35,526 --> 00:27:38,015
+Faça alguma coisa.
+Não! Não!
+
+515
+00:27:38,252 --> 00:27:40,406
+Deixe-o.
+
+516
+00:27:40,641 --> 00:27:43,534
+Por favor, Rosie.
+Por favor.
+
+517
+00:27:47,674 --> 00:27:50,231
+Estou feliz que você decidiu
+tentar novamente.
+
+518
+00:27:50,634 --> 00:27:52,654
+Agradeça a Dra. Stevens.
+
+519
+00:27:52,722 --> 00:27:54,673
+É por culpa dela que
+estamos aqui, correto?
+
+520
+00:27:54,975 --> 00:27:57,701
+Seus sinais estão estáveis.
+Ele está pronto.
+
+521
+00:27:57,735 --> 00:28:00,359
+Certo.
+Álcool entrando.
+
+522
+00:28:01,134 --> 00:28:02,917
+Espere, espere, não.
+
+523
+00:28:02,982 --> 00:28:06,348
+Mike, olhe para mim.
+Fique comigo.
+
+524
+00:28:06,449 --> 00:28:09,680
+Vai doer,
+mas não tanto quanto você pensa.
+
+525
+00:28:14,494 --> 00:28:15,941
+Ele está em Taquicardia
+supraventricular.
+
+526
+00:28:15,941 --> 00:28:18,093
+Talvez o álcool esteja voltando
+pelo Nó Atrioventricular.
+
+527
+00:28:18,093 --> 00:28:19,808
+Faça-o tossir.
+Faça-o respirar.
+
+528
+00:28:19,842 --> 00:28:22,198
+- Mike, você precisa respirar.
+- Tussa.
+
+529
+00:28:22,366 --> 00:28:25,597
+Olhe para mim, Mike,
+olhe para mim.
+
+530
+00:28:36,298 --> 00:28:38,250
+Está em taquicardia ventricular,
+perdendo consciência.
+
+531
+00:28:38,316 --> 00:28:41,916
+Dê 100mg de lidocaína,
+preparem o marca passo.
+
+532
+00:28:48,311 --> 00:28:51,306
+Não, é a Lexie.
+
+533
+00:28:52,181 --> 00:28:53,358
+Tenho que ir.
+
+534
+00:28:53,392 --> 00:28:55,444
+O cara quebrado está
+parando.
+
+535
+00:28:55,781 --> 00:28:57,868
+Não.
+O cara quebrado é meu.
+
+536
+00:28:58,001 --> 00:28:59,989
+Nós trocamos.
+
+537
+00:29:00,660 --> 00:29:02,140
+Por que não colocou o
+tubo torácico?
+
+538
+00:29:02,276 --> 00:29:04,800
+- Eu colocaria, se soubesse como.
+- Como você não sabe?
+
+539
+00:29:04,833 --> 00:29:06,314
+Aprendi isso na minha
+primeira semana.
+
+540
+00:29:06,314 --> 00:29:08,297
+Você aprendeu.
+Você sabe
+
+541
+00:29:08,367 --> 00:29:11,125
+Mas eu nunca aprenderei porque
+você nunca me deixará tentar.
+
+542
+00:29:11,159 --> 00:29:14,623
+Você nos despreza e
+rouba nossos cadáveres.
+
+543
+00:29:15,061 --> 00:29:17,014
+Acho que você a comoveu.
+
+544
+00:29:17,147 --> 00:29:19,906
+Sinais vitais estáveis agora.
+
+545
+00:29:20,446 --> 00:29:23,307
+Havia tanto sangue em
+sua urina antes?
+
+546
+00:29:23,340 --> 00:29:25,662
+Não. Ele precisará de
+um cistograma.
+
+547
+00:29:25,729 --> 00:29:27,478
+- Direito meu.
+- Não, é meu,
+
+548
+00:29:27,547 --> 00:29:28,993
+e a reparação da bexiga também.
+
+549
+00:29:29,061 --> 00:29:30,274
+Não, trocamos.
+Eu fico com a bexiga.
+
+550
+00:29:30,274 --> 00:29:31,414
+Não, nunca trocamos,
+
+551
+00:29:31,414 --> 00:29:32,694
+e para provar que você
+está errado, três,
+
+552
+00:29:32,765 --> 00:29:34,646
+próxima vez que ele parar,
+coloque o tudo torácico.
+
+553
+00:29:34,680 --> 00:29:37,438
+Saiam de perto deste
+homem agora.
+
+554
+00:29:38,583 --> 00:29:41,243
+Ele parou, então aumentamos
+a dopamina e demos...
+
+555
+00:29:41,243 --> 00:29:44,000
+Você é surdo, Karev?
+Eu disse saiam de perto dele.
+
+556
+00:29:44,100 --> 00:29:45,517
+Estou apenas dizendo
+que salvamos sua vida.
+
+557
+00:29:45,616 --> 00:29:47,870
+Não, o que fizeram foi
+rodeá-lo como urubus.
+
+558
+00:29:47,904 --> 00:29:49,723
+Como um bando de crianças
+brigando por brinquedos.
+
+559
+00:29:49,756 --> 00:29:52,582
+Tratou um homem que está lutando
+para viver como um defunto.
+
+560
+00:29:52,682 --> 00:29:56,283
+Você é insensato,
+indecente e desrespeitoso.
+
+561
+00:30:00,153 --> 00:30:03,249
+Saia.
+Saia daqui.
+
+562
+00:30:29,968 --> 00:30:31,447
+Ed...
+
+563
+00:30:33,095 --> 00:30:35,284
+Rosemary se foi.
+
+564
+00:30:35,755 --> 00:30:38,849
+Seu coração não está mais
+batendo por conta própria.
+
+565
+00:30:39,120 --> 00:30:44,268
+Assim que parar de fazer isso,
+o coração irá parar.
+
+566
+00:30:44,737 --> 00:30:48,944
+Não posso deixá-la ir.
+
+567
+00:30:49,954 --> 00:30:52,412
+Deixá-la morrer.
+
+568
+00:30:53,450 --> 00:30:55,604
+Eu sei.
+
+569
+00:30:55,907 --> 00:30:58,530
+Sei que não pode.
+
+570
+00:31:11,892 --> 00:31:16,297
+Aqui, sente-se.
+Sente-se. Pronto.
+
+571
+00:31:34,906 --> 00:31:36,959
+Dra. Bailey.
+
+572
+00:31:46,011 --> 00:31:48,703
+Traga o carrinho de parada.
+
+573
+00:31:51,194 --> 00:31:54,254
+Mike abra os olhos!
+
+574
+00:31:55,231 --> 00:31:59,135
+Fique aqui comigo.
+Preciso que você lute, Mike.
+
+575
+00:31:59,235 --> 00:32:01,053
+Lute para ficar com Elyse.
+
+576
+00:32:01,120 --> 00:32:04,687
+Você tem de sobreviver a isso.
+Precisa respirar agora.
+
+577
+00:32:04,891 --> 00:32:06,470
+Agora!
+
+578
+00:32:07,748 --> 00:32:09,196
+Agora!
+
+579
+00:32:53,075 --> 00:32:55,296
+Não precisa fazer isso.
+Deixa comigo.
+
+580
+00:32:55,598 --> 00:32:57,549
+Deixa comigo.
+
+581
+00:33:25,543 --> 00:33:26,787
+Dra. Yang,
+
+582
+00:33:26,887 --> 00:33:30,319
+preciso que você me dê
+o relatório do pós-operatório
+
+583
+00:33:30,388 --> 00:33:32,407
+da vítima de espancamento
+antes de ir embora essa noite.
+
+584
+00:33:32,407 --> 00:33:35,536
+Perdão, você disse algo?
+
+585
+00:33:37,353 --> 00:33:39,404
+Yang, qual seu problema?
+
+586
+00:33:39,506 --> 00:33:40,818
+Como?
+
+587
+00:33:40,886 --> 00:33:44,384
+Mulheres já se operaram
+sem a menor necessidade
+
+588
+00:33:44,451 --> 00:33:46,942
+só para ter mais uma chance de
+serem paqueradas por mim.
+
+589
+00:33:47,110 --> 00:33:49,098
+Então qual é a sua?
+
+590
+00:33:49,264 --> 00:33:52,529
+Não faço idéia do que
+você está falando.
+
+591
+00:33:53,135 --> 00:33:55,994
+Dei em cima de você
+o dia todo!
+
+592
+00:33:58,518 --> 00:34:01,109
+Mesmo?
+
+593
+00:34:02,825 --> 00:34:04,641
+Com licença.
+
+594
+00:34:06,056 --> 00:34:08,847
+Foi uma idéia idiota que
+nem era minha.
+
+595
+00:34:08,847 --> 00:34:11,439
+- Era do Shepherd.
+- Qual é?
+
+596
+00:34:11,642 --> 00:34:14,535
+Aquela mulher não é um
+uísque sigle malte, meu caro.
+
+597
+00:34:14,568 --> 00:34:16,084
+Ela é um vinho barato
+
+598
+00:34:16,084 --> 00:34:19,178
+que te dá tanta dor de cabeça
+que até seus dentes doem.
+
+599
+00:34:23,689 --> 00:34:25,034
+Então, Dr. Hunt.
+
+600
+00:34:25,034 --> 00:34:26,884
+Já tem uma opinião sobre os
+residentes do 2º ano após hoje?
+
+601
+00:34:26,988 --> 00:34:29,037
+Só faz um dia, senhor.
+
+602
+00:34:29,711 --> 00:34:31,394
+Claro.
+
+603
+00:34:31,729 --> 00:34:33,885
+São indisciplinados,
+inarticulados,
+
+604
+00:34:33,918 --> 00:34:36,106
+e têm muito a aprender
+sobre respeito.
+
+605
+00:34:36,173 --> 00:34:38,730
+Estão mais interessados em suas
+vidinhas do que outra coisa,
+
+606
+00:34:38,798 --> 00:34:40,984
+e não acredito que estejam
+aprendendo algo diferente.
+
+607
+00:34:41,119 --> 00:34:43,744
+Sinceramente,
+não sei se vou ficar por aqui.
+
+608
+00:34:43,744 --> 00:34:45,931
+Com licença, senhor.
+
+609
+00:34:52,089 --> 00:34:54,982
+Me digam que não
+estou vendo isso.
+
+610
+00:34:55,083 --> 00:35:01,038
+Me digam que não estou vendo
+uma sala cheia de corpos humanos
+
+611
+00:35:01,107 --> 00:35:04,472
+entreabertos,
+revirados e largados.
+
+612
+00:35:04,537 --> 00:35:07,096
+- São não reclamados.
+- Não reclamados?
+
+613
+00:35:07,365 --> 00:35:12,109
+Cada uma dessas pessoas,
+foi amada.
+
+614
+00:35:12,177 --> 00:35:16,754
+Cada uma dessas pessoas,
+foi o "alguém" de alguém,
+
+615
+00:35:16,789 --> 00:35:20,524
+então somos responsáveis
+em tratá-las como tais.
+
+616
+00:35:20,624 --> 00:35:25,738
+Nós as reclamamos e
+as tratamos com respeito!
+
+617
+00:35:28,600 --> 00:35:34,455
+Fechem, cubram, e os devolvam
+aos seus lugares.
+
+618
+00:35:34,958 --> 00:35:36,878
+Agora!
+
+619
+00:35:48,856 --> 00:35:50,505
+A mulher da vítima de
+espancamento chegou.
+
+620
+00:35:50,505 --> 00:35:51,953
+Ela identificou o marido,
+e ela queria...
+
+621
+00:35:51,953 --> 00:35:53,700
+Qual o nome dele?
+
+622
+00:35:54,306 --> 00:35:56,394
+Queria saber se você
+perguntou o nome do marido,
+
+623
+00:35:56,394 --> 00:35:58,413
+para que ele virasse uma
+pessoa pra você.
+
+624
+00:35:58,581 --> 00:36:00,534
+São pessoas, Yang.
+Isso não é um jogo,
+
+625
+00:36:00,567 --> 00:36:02,550
+ou um concurso
+ou uma competição
+
+626
+00:36:02,550 --> 00:36:04,232
+pra ver quem faz a
+cirurgia ou não.
+
+627
+00:36:04,268 --> 00:36:06,925
+São pessoas,
+e nós as salvamos.
+
+628
+00:36:07,527 --> 00:36:08,939
+Você é boa. É excelente.
+
+629
+00:36:08,939 --> 00:36:10,018
+Poderia ganhar
+todas as competições,
+
+630
+00:36:10,119 --> 00:36:13,213
+mas se é por isso que está aqui,
+não deveria estar.
+
+631
+00:36:14,056 --> 00:36:16,343
+Então,
+descobriu o nome dele?
+
+632
+00:36:31,923 --> 00:36:33,810
+Meu pai morreu quando
+eu tinha 9 anos,
+
+633
+00:36:33,843 --> 00:36:36,230
+num acidente de carro.
+Eu estava no carro com ele.
+
+634
+00:36:36,400 --> 00:36:38,484
+Enquanto esperávamos
+pela ambulância,
+
+635
+00:36:38,585 --> 00:36:42,692
+tentei manter seu peito fechado,
+pra não sangrar muito.
+
+636
+00:36:43,599 --> 00:36:45,954
+Quando ele morreu...
+
+637
+00:36:48,713 --> 00:36:53,525
+Minhas mãos sentiram seu coração
+parar de bater.
+
+638
+00:36:55,546 --> 00:36:58,372
+Por isso que estou nessa.
+
+639
+00:36:59,010 --> 00:37:02,444
+Também é por isso que ganho
+todos as competições.
+
+640
+00:37:04,900 --> 00:37:08,668
+O nome do paciente é Tom.
+
+641
+00:37:16,747 --> 00:37:19,908
+Uísque single malte.
+
+642
+00:37:23,743 --> 00:37:27,445
+Nascemos, vivemos, morremos.
+
+643
+00:37:28,049 --> 00:37:31,584
+Às vezes, não necessariamente
+nessa ordem.
+
+644
+00:37:33,938 --> 00:37:35,757
+Afastar!
+
+645
+00:37:38,450 --> 00:37:43,026
+- Você não vai morrer!
+- Bom trabalho.
+
+646
+00:37:44,944 --> 00:37:46,557
+Obrigado.
+
+647
+00:37:47,635 --> 00:37:50,059
+Sabe, é só um robô.
+
+648
+00:37:52,246 --> 00:37:55,644
+Quero retirar o que disse antes,
+sobre ir embora.
+
+649
+00:37:56,047 --> 00:37:58,334
+Exagerei, eu estava...
+
+650
+00:37:58,640 --> 00:38:02,105
+Era pessoal. E queria saber se
+você poderia esquecer isso.
+
+651
+00:38:02,374 --> 00:38:07,389
+Vai dormir, Dr. Hunt.
+Até amanhã.
+
+652
+00:38:18,022 --> 00:38:19,603
+Chefe?
+
+653
+00:38:19,738 --> 00:38:22,295
+Bom salvamento, O'Malley.
+
+654
+00:38:23,001 --> 00:38:24,956
+Obrigado.
+
+655
+00:38:25,322 --> 00:38:28,184
+Colocamos as coisas
+para descansar...
+
+656
+00:38:30,404 --> 00:38:32,527
+Apenas para
+ressuscitá-las de novo.
+
+657
+00:38:32,593 --> 00:38:34,375
+Estou dentro.
+
+658
+00:38:44,437 --> 00:38:47,329
+"...e terminei meu dia com uma
+colectomia segmentar."
+
+659
+00:38:47,329 --> 00:38:49,788
+Durona!
+
+660
+00:38:50,796 --> 00:38:53,924
+Sloan? Sério mesmo?
+
+661
+00:38:54,432 --> 00:38:56,617
+Que foi? Achou que iríamos
+sair em pares?
+
+662
+00:38:56,718 --> 00:38:59,041
+Olha, vou tirar as calças,
+se quiser ficar pra ver...
+
+663
+00:38:59,075 --> 00:39:00,389
+Não.
+
+664
+00:39:02,237 --> 00:39:05,029
+Te vejo depois.
+Vou descer.
+
+665
+00:39:05,299 --> 00:39:07,318
+Então se a morte não é o fim,
+
+666
+00:39:07,487 --> 00:39:09,641
+no que ainda podemos contar?
+
+667
+00:39:09,875 --> 00:39:12,165
+E como está seu paciente?
+
+668
+00:39:12,465 --> 00:39:15,564
+Ainda precisa de um coração,
+mas ganhei um tempo pra ele.
+
+669
+00:39:15,564 --> 00:39:17,279
+Bom, fico feliz.
+
+670
+00:39:17,347 --> 00:39:19,298
+Falei com o Chefe
+sobre Izzie Stevens,
+
+671
+00:39:19,331 --> 00:39:21,316
+e ele me cortou na hora.
+
+672
+00:39:21,385 --> 00:39:24,175
+Bem, veremos o que ele vai dizer
+quando eu denunciar isso à UNOS.
+
+673
+00:39:24,243 --> 00:39:28,282
+Espera, por quê?
+Que bem faria isso?
+
+674
+00:39:28,619 --> 00:39:31,007
+- Como assim?
+- O que isso traria de bom?
+
+675
+00:39:31,042 --> 00:39:32,725
+Quer dizer,
+ajudaria seu paciente?
+
+676
+00:39:32,725 --> 00:39:35,853
+Meu paciente nem estaria
+aqui se não fosse por ela.
+
+677
+00:39:36,453 --> 00:39:37,767
+Então você denunciará
+isso à UNOS,
+
+678
+00:39:37,767 --> 00:39:41,131
+às custas do certificado de
+transplante do hospital?
+
+679
+00:39:41,299 --> 00:39:43,822
+Às custas de órgãos aos nossos
+pacientes, às custas de empregos,
+
+680
+00:39:43,892 --> 00:39:45,033
+às custas da carreira
+de Izzie Stevens?
+
+681
+00:39:45,136 --> 00:39:48,566
+Espere, você está do lado de
+Izzie Stevens, em vez do meu?
+
+682
+00:39:48,634 --> 00:39:50,520
+Ela é uma médica,
+uma das nossas.
+
+683
+00:39:50,520 --> 00:39:52,505
+Tem um motivo para
+nos apoiarmos, Erica.
+
+684
+00:39:52,505 --> 00:39:55,500
+Não venha me falar de código,
+porque não tem nada a ver.
+
+685
+00:39:55,500 --> 00:39:56,914
+Não, tem sim.
+
+686
+00:39:57,014 --> 00:39:58,493
+Olha, não sei o que
+houve entre
+
+687
+00:39:58,493 --> 00:40:00,076
+Denny Duquette e Izzie Stevens
+naquela noite,
+
+688
+00:40:00,142 --> 00:40:02,600
+mas a não ser que você
+estivesse no meio da situação,
+
+689
+00:40:02,666 --> 00:40:04,012
+não sei como você
+pode julgar alguma coisa.
+
+690
+00:40:04,046 --> 00:40:06,536
+Fácil.
+Há o certo e o errado.
+
+691
+00:40:06,569 --> 00:40:09,935
+E isso foi errado.
+E ilegal.
+
+692
+00:40:10,337 --> 00:40:12,595
+Não há meio-termo aqui,
+
+693
+00:40:12,628 --> 00:40:14,982
+não dá para meio achar
+que não tem problema.
+
+694
+00:40:15,186 --> 00:40:18,112
+Não dá para meio estar
+do lado de Izzie Stevens.
+
+695
+00:40:18,247 --> 00:40:21,981
+E não dá para ser
+meio lésbica.
+
+696
+00:40:24,438 --> 00:40:26,054
+Posso sim.
+
+697
+00:40:26,154 --> 00:40:28,878
+Porque não dá para
+contar com nada na vida.
+
+698
+00:40:28,947 --> 00:40:30,493
+Não acredito que não
+sabia disso.
+
+699
+00:40:30,528 --> 00:40:33,390
+- Erica, o Chefe tem razão.
+- Não, você.
+
+700
+00:40:33,994 --> 00:40:36,788
+Eu não te conheço
+nem um pouco.
+
+701
+00:40:40,995 --> 00:40:44,223
+Vida é a coisa mais frágil,
+instável,
+
+702
+00:40:44,259 --> 00:40:47,053
+e imprevisível que existe.
+
+703
+00:41:11,952 --> 00:41:14,509
+Não pode estar aqui.
+
+704
+00:41:14,881 --> 00:41:17,169
+Preciso seguir em frente.
+
+705
+00:41:19,153 --> 00:41:23,360
+Eu te amo, e sempre vou amar.
+Mas preciso seguir em frente.
+
+706
+00:41:23,630 --> 00:41:26,422
+Por isso tive aquele
+paciente hoje e...
+
+707
+00:41:27,161 --> 00:41:30,057
+ajudei a salvar sua vida,
+pra não me sentir mais culpada
+
+708
+00:41:30,090 --> 00:41:33,387
+e poder seguir em frente.
+Então, por favor...
+
+709
+00:41:33,655 --> 00:41:35,642
+Você precisa ir.
+
+710
+00:41:36,079 --> 00:41:37,896
+Ir aonde?
+
+711
+00:41:39,310 --> 00:41:41,834
+- Você está bem?
+- Sim.
+
+712
+00:41:43,583 --> 00:41:45,636
+Estou muito bem.
+
+713
+00:41:45,838 --> 00:41:48,126
+Estou bem.
+Está tudo bem.
+
+714
+00:41:48,564 --> 00:41:51,862
+Tenho que me trocar, mas
+te encontro no bar, tá?
+
+715
+00:41:55,261 --> 00:42:00,913
+Na verdade, só temos certeza
+de uma coisa na vida.
+
+716
+00:42:07,507 --> 00:42:10,334
+Tem certeza que está bem?
+
+717
+00:42:17,300 --> 00:42:19,421
+Só termina quando acaba.
+
